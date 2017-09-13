@@ -99,8 +99,7 @@ const defaultStyles = {
   },
   nextButtonText: {
     fontSize: 25,
-    fontWeight: 'bold',
-    fontFamily: 'Arial',
+    fontWeight: 'bold'
   },
   full: {
     height: 80,
