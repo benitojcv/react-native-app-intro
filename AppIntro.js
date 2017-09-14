@@ -495,7 +495,7 @@ AppIntro.defaultProps = {
   onNextBtnClick: () => {},
   doneBtnLabel: 'Done',
   skipBtnLabel: 'Skip',
-  nextBtnLabel: '›',
+  nextBtnLabel: '＞',
   defaultIndex: 0,
   showSkipButton: true,
   showDoneButton: true,
